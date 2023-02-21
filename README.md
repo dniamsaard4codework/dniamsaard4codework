@@ -13,7 +13,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div id="header" align="center">
-  <h1> Hi there 👋 </h1>
+  <h3> Hi there 👋 </h3>
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
+  # Hi there, I'm [Your Name] 👋
+
+I'm a [Your Profession] with a passion for [Your Interests]. I love [Your Hobbies] and I'm constantly learning and exploring new things.
+
+- 🚀 I’m currently working on [Project or Goal]
+- 🌱 I’m currently learning [Skill or Tool]
+- 💬 Ask me about [Your Area of Expertise]
+- 📫 How to reach me: [Your Email] or [Your Website]
+- 😄 Pronouns: [Your Pronouns]
+
+## Skills and Tools
+- [Skill/Tool 1]
+- [Skill/Tool 2]
+- [Skill/Tool 3]
+- [Skill/Tool 4]
+- [Skill/Tool 5]
+
+## Projects
+- [Project 1]
+- [Project 2]
+- [Project 3]
+
+## Fun Facts
+- [Fun Fact 1]
+- [Fun Fact 2]
+- [Fun Fact 3]
+
+
 </div>
