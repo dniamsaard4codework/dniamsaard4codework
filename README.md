@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <h3> Hi there 👋 </h3>
+  <h1> Hi there 👋 </h1>
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
-  # Hi there, I'm [Your Name] 👋
+</div>
+<div id="body" align = "center">
+  # Hi there, I'm Dechathon 👋
 
-I'm a [Your Profession] with a passion for [Your Interests]. I love [Your Hobbies] and I'm constantly learning and exploring new things.
+I'm a Student with a passion for Coding. I love [Your Hobbies] and I'm constantly learning and exploring new things.
 
 - 🚀 I’m currently working on [Project or Goal]
 - 🌱 I’m currently learning [Skill or Tool]
@@ -45,4 +47,3 @@ I'm a [Your Profession] with a passion for [Your Interests]. I love [Your Hobbie
 - [Fun Fact 3]
 
 
-</div>
