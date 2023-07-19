@@ -29,9 +29,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dniamsaard4codework&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->er=false&count_private=false)
-
-![dniamsaard4codework's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dniamsaard4codework&theme=tokyonight&hide_border=false)
-
-![dniamsaard4codework's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dniamsaard4codework&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->er=false&count_private=false)>
 
