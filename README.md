@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Website](https://github.com/dniamsaard4codework/dniamsaard4codework/edit/main/README.md)
+- 🔭 I’m currently working on [README.md](https://github.com/dniamsaard4codework/dniamsaard4codework/edit/main/README.md)
 
 - 🌱 I’m currently learning **Go, Go Framework**
 
