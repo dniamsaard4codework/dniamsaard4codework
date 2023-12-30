@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [README.md](https://github.com/dniamsaard4codework/dniamsaard4codework/edit/main/README.md)
 
-- 🌱 I’m currently learning **Go, Go Framework**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - 📫 How to reach me **dniamsaard4codework@gmail.com**
 
