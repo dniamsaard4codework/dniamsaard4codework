@@ -1,4 +1,4 @@
-<h3 align="center">A passionate MATBOT Student from Thailand</h3>
+<h3 align="center">A passionate AIT DSAI Student from Thailand</h3>
 
 - 🔭 I’m currently working on [README.md](https://github.com/dniamsaard4codework/dniamsaard4codework/edit/main/README.md)
 
