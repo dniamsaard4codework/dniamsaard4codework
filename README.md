@@ -1,95 +1,106 @@
-<!-- =======================
-   GitHub Profile README
-   Dechathon Niamsaard 🇹🇭
-======================== -->
+<!-- ============================================
+  GitHub Profile README — Dechathon Niamsaard
+  Tip: Keep it scannable. Pin your best repos.
+============================================ -->
 
 <div align="center">
 
+  <!-- Optional: nice header banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:1f6feb,100:79c0ff&text=Dechathon%20Niamsaard&fontAlignY=35&fontColor=ffffff&fontSize=42" alt="header" />
+
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=79C0FF&center=true&vCenter=true&width=820&lines=Hi+there!+I'm+Dechathon+%F0%9F%91%8B;MSc+DSAI+Student+%40+AIT;Time-Series+Forecasting+%7C+Deep+Learning+%7C+MLOps;Building+Flood+Early+Warning+AI+Systems"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=79C0FF&center=true&vCenter=true&width=900&lines=Hi+there!+I%27m+Dechathon+%F0%9F%91%8B;MSc+DSAI+Student+%40+AIT;Time-Series+Forecasting+%7C+Deep+Learning+%7C+MLOps;Building+Flood+Early+Warning+AI+Systems"
     alt="Typing intro"
   />
 
-  <h3>🇹🇭 Future Data Scientist building scalable, reliable AI</h3>
-
   <p>
     <a href="https://linkedin.com/in/dechathon-niamsa-ard">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-dechathon--niamsa--ard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:dniamsaard4codework@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-dniamsaard4codework%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://github.com/dniamsaard4codework">
-      <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
+    <!-- Optional: add a portfolio site if you have one -->
+    <!-- <a href="https://your-site.com"><img src="https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=dniamsaard4codework&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=dniamsaard4codework&style=for-the-badge&color=1f6feb" alt="profile views" />
+    <img src="https://img.shields.io/badge/Location-Thailand-2ea043?style=for-the-badge" alt="location"/>
   </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
+### 👨‍💻 About
 I’m **Dechathon**, a **Master’s student (MSc DSAI)** at the **Asian Institute of Technology (AIT)**.  
-I enjoy turning messy data into **robust ML systems**—from experimentation to deployment.
+I build **reliable machine learning systems**—from clean data → strong baselines → evaluation → deployment.
 
-**Current interests**
-- 🌊 **Flood Early Warning Systems** (forecasting + reliability)
-- ⏳ **Time-series forecasting** (LSTM/Transformers, probabilistic forecasting)
-- 🧪 **Deep learning** + **MLOps** (reproducibility, CI/CD, Docker)
-
----
-
-## 🚀 What I’m Doing Now
-
-- 🌱 Learning: **Advanced Deep Learning**, **MLOps in production**
-- 🔭 Building: **Flood forecasting models** + evaluation pipelines
-- 💬 Ask me about: **Python**, **ML pipelines**, **time-series**, **deployment basics**
+**Core interests**
+- 🌊 Flood Early Warning Systems (real-world constraints & reliability)
+- ⏳ Time-series forecasting (LSTM/GRU/Transformers; multivariate forecasting)
+- 🧰 MLOps (reproducibility, Docker, CI/CD basics, monitoring mindset)
 
 ---
 
-## 🧩 Featured Work (pin these repos!)
+## ⚡ Now
+- 🔭 Working on: **Flood forecasting models** + evaluation pipelines  
+- 🌱 Learning: **Advanced Deep Learning**, **production ML patterns**  
+- 💬 Ask me about: **Python**, **time-series**, **PyTorch**, **ML pipelines**
 
-> Replace links with your real projects. Keep 3–4 strong ones.
+---
 
-| Project | What it does | Stack |
-|---|---|---|
-| **Flood Forecasting Pipeline** | End-to-end pipeline for forecasting water levels + evaluation | PyTorch · Pandas · Docker |
-| **Time-Series Model Zoo** | LSTM/GRU/Transformer baselines + clean experiment tracking | PyTorch · Sklearn |
-| **MLOps Template** | Reproducible ML repo structure + CI sanity checks | Git · Docker · Linux |
-| **Data Engineering Mini-Project** | Ingestion → cleaning → training-ready datasets | Python · MySQL |
+## 🧩 Featured Projects (Pin these on GitHub)
+> Replace the placeholders with your best repos. Keep **3–5** max.
+
+- 🌊 **Flood Forecasting Pipeline** — end-to-end forecasting pipeline with evaluation & clean experiments  
+  ↳ Repo: `https://github.com/dniamsaard4codework/REPO_NAME`
+
+- 🧠 **Time-Series Baselines + Deep Models** — ARIMA/Prophet/LSTM/Transformer baselines with consistent metrics  
+  ↳ Repo: `https://github.com/dniamsaard4codework/REPO_NAME`
+
+- ⚙️ **MLOps Template** — reproducible ML repository structure + Docker + CI sanity checks  
+  ↳ Repo: `https://github.com/dniamsaard4codework/REPO_NAME`
+
+<details>
+  <summary><b>What makes a project “pin-worthy”?</b> (click)</summary>
+
+- Clear README: problem → approach → results → how to run  
+- Reproducible: requirements, seed, config, environment  
+- Strong evaluation: baselines, metrics, plots, ablations  
+- Simple demo: notebook, CLI, or minimal app endpoint (FastAPI)
+
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧠 AI / ML
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<div align="center">
 
-### ⚙️ Tools / Platforms
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0000ff?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧠 AI / Data
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<br/><br/>
 
-### 🌐 Other Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### ⚙️ Tools / DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+<br/>
+<img src="https://skillicons.dev/icons?i=jupyter,vscode" />
+<br/><br/>
+
+### 🌐 Other
+<img src="https://skillicons.dev/icons?i=go,c,js" />
+
+</div>
+
+> Prefer badges instead of icons? You can swap this section back to shields anytime.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   <img
@@ -123,9 +134,12 @@ I enjoy turning messy data into **robust ML systems**—from experimentation to 
 ---
 
 ## 🤝 Let’s Collaborate
+If you’re working on **forecasting**, **MLOps**, **climate/flood risk**, or **applied deep learning**, I’m happy to connect.
 
-If you’re working on **forecasting**, **MLOps**, **climate/flood risk**, or **applied deep learning**—I’m happy to connect.
+📩 **Email:** dniamsaard4codework@gmail.com  
+🔗 **LinkedIn:** dechathon-niamsa-ard
 
-📩 Email: **dniamsaard4codework@gmail.com**  
-🔗 LinkedIn: **dechathon-niamsa-ard**
-
+<!-- Optional footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1f6feb,100:79c0ff" alt="divider" />
+</div>
