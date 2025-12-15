@@ -1,50 +1,57 @@
-Dechathon Niamsa-ard 
-# Hi, I'm Dechathon Niamsa-ard! 👋
+# Hi there, I'm Dechathon Niamsa-ard! 👋
 
-### 🎓 Data Scientist & ML Engineer | AIT Master's Student
+### 🎓 M.Sc. Student in Data Science & AI | Asian Institute of Technology (AIT)
 
-I am a Data Scientist specializing in **Machine Learning Engineering** and **Backend Systems**. Currently completing my Master's at the **Asian Institute of Technology**, I focus on bridging the gap between complex algorithms and production-ready applications.
+I am currently navigating the world of Data Science, moving from theory to application. My GitHub serves as a repository for my academic assignments, algorithm implementations from scratch, and full-stack data projects.
 
-- 🔭 I’m currently building **End-to-end ML pipelines with MLflow and Dash**
-- 💼 Experience in **Database Optimization & Backend APIs** (VInTAMedical)
-- 💬 Ask me about **XGBoost, Custom Gradient Descent, and System Architecture**
+- 🔭 I’m currently studying **Machine Learning, Data Modeling, and Deep Learning**
+- 🧠 I focus on understanding the **Math behind the models** (Linear Algebra, Calculus)
+- 📝 This profile hosts my coursework and self-study projects
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/dechathon-niamsa-ard/)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📚 Academic Projects & Coursework
 
-**Machine Learning & Data:**
+#### 🚗 [Car Price Prediction & Analytics](https://github.com/dniamsaard4codework/YOUR_REPO_NAME_HERE)
+*Course: Machine Learning (AT82.03)*
+A comprehensive study on regression analysis comparing industry libraries vs. custom implementations.
+* **Objective:** Predict car prices using multiple approaches to understand model behavior.
+* **Key Learnings:**
+    * Implemented **Linear Regression from scratch** (Gradient Descent, Regularization) without Scikit-Learn.
+    * Compared performance against **XGBoost** and **Random Forest**.
+    * Deployed a dashboard using **Dash** and **Docker** to visualize feature importance.
+
+#### 📉 Statistical Learning & Algorithms
+*Repositories focused on building algorithms from the ground up.*
+* **Gradient Descent:** Manual implementation to understand convergence and learning rates.
+* **Logistic Regression:** Built a custom classifier to understand probability thresholds.
+* **Data Cleaning:** Scripts for handling missing values and outlier detection in real-world datasets.
+
+---
+
+### 🛠️ My Learning Stack
+
+**Languages & Core:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB4C42?style=for-the-badge&logo=xgboost&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Data Science Libraries:**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=python&logoColor=white)
 
-**Backend & Deployment:**
+**Tools I use for Assignments:**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🚗 [Car Price Prediction System](https://st126235.ml.brain.cs.ait.ac.th/)
-*A full-stack ML application comparing industry-standard algorithms vs. custom implementations.*
-* **The Challenge:** Build a system to predict car prices and classify price tiers with high explainability.
-* **The Solution:**
-    * **Model A (Production):** XGBoost Regressor for maximum accuracy (Non-linear).
-    * **Model B (Custom):** Implemented **Linear Regression from scratch** using Gradient Descent & Ridge/Lasso regularization.
-    * **Model C (Classification):** Custom Logistic Regression for price quartile classification.
-* **Tech Stack:** Python, Dash (UI), MLflow (Tracking), Docker.
-
-#### 🏥 Database Optimization @ VInTAMedical
-* Managed and optimized relational database systems to resolve performance bottlenecks.
-* Designed backend APIs to support frontend functionalities, ensuring strict data integrity.
+### 📈 Coding Activity
+![Dechathon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dniamsaard4codework&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dniamsaard4codework&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### 📊 GitHub Stats
-![Dechathon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+*Note: This profile is a living document of my progress at AIT.*
