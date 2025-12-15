@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f3460&height=250&section=header&text=Dechathon%20Niamsa-ard&fontSize=50&animation=fadeIn&fontAlignY=38&desc=M.Sc.%20Data%20Science%20%26%20AI%20Student%20@%20AIT&descAlignY=55&descAlign=50" width="100%"/>
-</div>
+![Header Image](https://capsule-render.vercel.app/api?type=waving&color=0f3460&height=250&section=header&text=Dechathon%20Niamsa-ard&fontSize=50&animation=fadeIn&fontAlignY=38&desc=M.Sc.%20Data%20Science%20and%20AI%20Student%20@%20AIT&descAlignY=55&descAlign=50)
 
 ### 👋 About Me
 
-I am a **Master's Student in Data Science & AI** at the **Asian Institute of Technology (AIT)**.
+I am a **Master's Student in Data Science and AI** at the **Asian Institute of Technology (AIT)**.
 
 My academic journey focuses on bridging the gap between **Mathematical Theory** and **Production Engineering**. I don't just use libraries; I study the algorithms behind them to understand *why* they work. My goal is to build robust, explainable AI systems.
 
@@ -27,7 +25,7 @@ I divide my skillset into two layers: the **Mathematical Foundations** (The "Why
 | **Calculus & Optimization** | Gradient Descent (Batch/Stochastic), Backpropagation, Jacobian/Hessian Matrices. |
 | **Linear Algebra** | Matrix Decomposition (SVD, PCA), Eigenvalues, Vector Spaces. |
 | **Probability** | Maximum Likelihood Estimation (MLE), Bayesian Inference, Distributions. |
-| **Deep Learning Math** | Attention Mechanisms ($$Attention(Q, K, V)$$), Loss Functions (Cross-Entropy). |
+| **Deep Learning Math** | Attention Mechanisms, Loss Functions (Cross-Entropy). |
 
 #### 2. The Engineering Stack
 *Tools for building scalable data systems.*
