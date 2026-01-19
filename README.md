@@ -1,4 +1,4 @@
-![Header Image](https://capsule-render.vercel.app/api?type=waving&color=0f3460&height=250&section=header&text=Dechathon%20Niamsa-ard&fontSize=50&animation=fadeIn&fontAlignY=38&desc=M.Sc.%20Data%20Science%20and%20AI%20Student%20@%20AIT&descAlignY=55&descAlign=50)
+![Header Image](https://capsule-render.vercel.app/api?type=waving&color=0f3460&height=250&section=header&text=Dechathon%20Niamsa-ard&fontSize=50&animation=fadeIn&fontAlignY=38&desc=M.Eng.%20Data%20Science%20and%20AI%20Student%20@%20AIT&descAlignY=55&descAlign=50)
 
 ### 👋 About Me
 
