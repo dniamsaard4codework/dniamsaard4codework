@@ -39,29 +39,3 @@ I divide my skillset into two layers: the **Mathematical Foundations** (The "Why
 | **DevOps & MLOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
-
-### 🚀 Featured Academic Projects
-
-#### 🚗 [Car Price Prediction System](https://st126235.ml.brain.cs.ait.ac.th/)
-*(Course: Machine Learning)*
-A comparative study of regression algorithms designed to predict vehicle prices.
-* **Objective:** Compare industry-standard libraries vs. custom algorithms built from scratch.
-* **Implementation:**
-    * **Custom:** Built Linear & Logistic Regression using only `NumPy` to master Gradient Descent.
-    * **Prod:** Deployed XGBoost model via **Docker** and **Dash** for real-time user interaction.
-    * **Insight:** Demonstrated how regularization (Lasso/Ridge) affects feature selection.
-
-#### 🏥 [VInTAMedical Database Optimization](https://www.linkedin.com/in/dechathon-niamsa-ard/)
-*(Professional Experience)*
-* Optimized relational database schemas to handle complex medical data.
-* Designed and implemented backend APIs to ensure secure and efficient data retrieval.
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dniamsaard4codework&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Dechathon's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dniamsaard4codework&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
